@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>About</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><h1>About Page</h1></header>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+<section>
+<p>This is the about page.</p>
+</section>
+</body>
+</html>
